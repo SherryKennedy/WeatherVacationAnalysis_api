@@ -11,8 +11,7 @@ Two csv files were output, one cities.csv, the collection of cities from the cit
 * Included a written description of observable trends based on the data.
 * included a screenshot of the heatmap you create and include it in your submission.
 
-API's used: [OpenWeatherMap API](https://openweathermap.org/api), [Google Places API]
-(https://developers.google.com/maps/documentation/places/web-service/overview)
+API's used: [OpenWeatherMap API](https://openweathermap.org/api), [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)
 
 ### Part I - WeatherPy
 
@@ -48,7 +47,7 @@ After each pair of plots, took the time to explain what the linear regression is
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-
+![Weather Image](HemishereWeatherPlot.jpg)
 
 ### Part II - VacationPy
 
